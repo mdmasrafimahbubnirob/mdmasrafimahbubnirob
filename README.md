@@ -1,3 +1,8 @@
+<!--- banner --->
+<img src="./banner/GithubBanner1.png" alt="Hello world">
+
+<br/>
+
 # Hi there, I'm Md. Masrafi Mahbub Nirob 👋
 
 I'm a passionate **Junior MERN Stack Developer** dedicated to building responsive and user-centric web applications. Currently, my primary focus is on transitioning my skills into a professional environment, and I am actively seeking an internship or entry-level role in web development.
