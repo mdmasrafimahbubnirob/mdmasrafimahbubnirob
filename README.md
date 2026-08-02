@@ -20,7 +20,7 @@ I'm a passionate **Junior MERN Stack Developer** dedicated to building responsiv
 ![Languages](https://skillicons.dev/icons?i=html,css,javascript)  
 
 ### Frontend: *React.js, Next.js, Tailwind CSS*
-![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,tailwind)
+![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,tailwind,heroui)
 
 ### Backend: *Node.js, Express.js*
 ![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=nodejs,express)
@@ -28,8 +28,8 @@ I'm a passionate **Junior MERN Stack Developer** dedicated to building responsiv
 ### Database: *MongoDB*
 ![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=mongodb)
 
-### Tools: *Git, Github, VScode*
-![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=git,github,vscode)
+### Tools: *Git, Github, VScode, Figma*
+![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=git,github,vscode,figma)
 
 <br/>
 
